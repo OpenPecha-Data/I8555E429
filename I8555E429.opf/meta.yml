@@ -1,0 +1,38 @@
+id: I8555E429
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:26:48.239174'
+last_modified: '2022-06-19T00:26:48.239189'
+parser: null
+source_metadata:
+  title: 'The gSan yig of Jam mgon A mes zhabs (1597–1659), part III: Teachings from
+    Mus chen sangs rgyas rgyal mtshan (1542-1618)'
+  author: a myes zhabs ngag dbang kun dga bsod nams/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-07-05); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), bsam grub/ (Dharamsala) (sdr)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:bsam grub/ (sdr)
+  text_witnesses: https://sakyaresearch.org/sources/602
+  bases:
+    5cf0:
+      title: 'The gSan yig of Jam mgon A mes zhabs (1597–1659), part III: Teachings
+        from Mus chen sangs rgyas rgyal mtshan (1542-1618)'
+      order: 1
+      base_file: 5cf0.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
